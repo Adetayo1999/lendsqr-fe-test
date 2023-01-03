@@ -24,23 +24,6 @@ Other technologies I used:
 - Axios and React Query for asynchronous data fetching.
 - HeadlessUI for popovers and menu dropdowns. [link](https://headlessui.com/)
 
-File paths to important sections of code
-
-- [Login page](https://github.com/ayomtuase/lendsqr-fe-test/blob/master/src/pages/Login.tsx)
-- [Dashboard structure](https://github.com/ayomtuase/lendsqr-fe-test/blob/master/src/pages/Dashboard/index.tsx)
-- [Users page](https://github.com/ayomtuase/lendsqr-fe-test/blob/master/src/pages/Dashboard/Users.tsx)
-- [Single Users page](https://github.com/ayomtuase/lendsqr-fe-test/blob/master/src/pages/Dashboard/SingleUser.tsx)
-
-## My Results
-
-- [Login page](https://ayomide-mofolorunso-oguntuase-lendsqr-fe-test.vercel.app)
-- [Dashboard and Users page](https://ayomide-mofolorunso-oguntuase-lendsqr-fe-test.vercel.app/dashboard)
-- [Individual Users page](https://ayomide-mofolorunso-oguntuase-lendsqr-fe-test.vercel.app/dashboard/users/1)
-
-## Other guides from React
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ### Available Scripts
 
 In the project directory, you can run:
